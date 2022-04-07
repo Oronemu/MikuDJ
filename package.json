@@ -12,15 +12,16 @@
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
     "ascii-table": "0.0.9",
-    "colors": "^1.4.0",
+    "colors": "^1.4.1",
     "discord.js": "^12.5.1",
     "distube": "^2.8.15",
     "ffmpeg-static": "^4.4.0",
     "npm": "^7.20.5",
-    "ytdl-core": "^4.9.1"
+    "ytdl-core": "^4.11.0",
+    "ascii-table": "0.0.9"
   },
   "devDependencies": {
-    "ascii-table": "0.0.9"
+
   },
   "repository": {
     "type": "git",
